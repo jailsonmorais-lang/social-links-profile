@@ -22,7 +22,7 @@ Os usuários devem ser capazes de:
 
 ### Screenshot
 
-![Screenshot do Projeto](./destkop-design.jpg)
+![Screenshot do Projeto](destkop-design.jpg)
 
 ### Links
 
